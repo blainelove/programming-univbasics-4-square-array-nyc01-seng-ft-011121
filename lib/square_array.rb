@@ -10,5 +10,5 @@ def square_array(array)
 end
 
 
-puts "MY TEST STARTS HERE*******************"
+p "MY TEST STARTS HERE*******************"
 p square_array([3,3,3])
