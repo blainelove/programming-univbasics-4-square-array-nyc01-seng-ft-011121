@@ -11,4 +11,4 @@ end
 
 
 puts "MY TEST STARTS HERE*******************"
-puts square_array([3,3,3]).inspect
+p square_array([3,3,3])
