@@ -13,3 +13,5 @@ end
 puts "MY TEST STARTS HERE*******************"
 a = square_array([3,3,3])
 puts a
+
+puts square_array([1,2,3])
