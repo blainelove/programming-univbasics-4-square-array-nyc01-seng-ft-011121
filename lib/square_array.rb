@@ -9,4 +9,6 @@ def square_array(array)
   return new_array
 end
 
+
+puts "MY TEST STARTS HERE"
 puts square_array([3,3,3,])
