@@ -8,7 +8,3 @@ def square_array(array)
   end
   return new_array
 end
-
-
-p "MY TEST STARTS HERE*******************"
-p square_array([3,3,3])
