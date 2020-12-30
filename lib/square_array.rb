@@ -11,4 +11,5 @@ end
 
 
 puts "MY TEST STARTS HERE*******************"
-square_array([3,3,3])
+a = square_array([3,3,3])
+puts a
